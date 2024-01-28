@@ -1,0 +1,16 @@
+[
+{
+  "modid": "date44mod",
+  "name": "Mystical Shadows",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Date44"],
+  "credits": "Date44",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
